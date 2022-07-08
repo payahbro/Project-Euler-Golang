@@ -11,9 +11,9 @@ func LargestPrimeFactor() int {
 		}
 	}
 
-	_, max := MinMax(res)
+	_, maxRes := MinMax(res)
 
-	return max
+	return maxRes
 }
 
 func MinMax(array []int) (int, int) {
