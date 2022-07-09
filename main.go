@@ -8,7 +8,11 @@ func main() {
 
 	// Day 2 - Even Fibonacci numbers
 	fmt.Println(EvenFibNumber())
+	fmt.Println(OptimEvenFibNumber())
 
 	// Day 3 - The Largest Prime Factor
 	fmt.Println(LargestPrimeFactor())
+
+	// Day 4 - The Largest Palindrome Product
+	fmt.Println(LargestPalindromeProduct())
 }
