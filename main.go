@@ -15,4 +15,7 @@ func main() {
 
 	// Day 4 - The Largest Palindrome Product
 	fmt.Println(LargestPalindromeProduct())
+
+	// Day 5 -  Smallest Multiple
+	fmt.Println(SmallestMultiple())
 }
