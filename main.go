@@ -18,4 +18,7 @@ func main() {
 
 	// Day 5 -  Smallest Multiple
 	fmt.Println(SmallestMultiple())
+
+	// Day 6 - Sum Square Difference
+	fmt.Println(SumSquareDifference(100.0))
 }
